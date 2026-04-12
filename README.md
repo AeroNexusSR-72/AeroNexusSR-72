@@ -1,4 +1,5 @@
-![Proyecto nuevo](https://github.com/user-attachments/assets/ee0271a1-8fc0-4394-888f-d458042a48f9)
+<img width="1640" height="664" alt="Proyecto nuevo (1)" src="https://github.com/user-attachments/assets/ae922ee1-a63c-48c8-8be3-6f828fad3e8d" />
+
 
 
 # Hi 👋, I'm Aeronexus
