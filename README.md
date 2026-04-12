@@ -2,8 +2,6 @@
 
 ### Actual Student of Software Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AeroNexusSR-72&label=Profile views&color=0e75b6&style=flat" alt="AeroNexusSR-72" /> </p>
-
 - 🔭 I'm currently working on **an Atlas using PHP from scratch**
 
 - 🌱 I'm currently learning **Typescript, Angular, Symphony**
