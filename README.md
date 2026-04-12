@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aero_NexusSR-72
+# Hi 👋, I'm Aeronexus
 
 ### Actual Student of Software Engineering
 
