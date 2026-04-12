@@ -1,3 +1,6 @@
+![Proyecto nuevo](https://github.com/user-attachments/assets/ee0271a1-8fc0-4394-888f-d458042a48f9)
+
+
 # Hi 👋, I'm Aeronexus
 
 ### Actual Student of Software Engineering
