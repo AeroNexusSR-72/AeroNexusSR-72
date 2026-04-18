@@ -17,15 +17,19 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://github.com/AeroNexusSR-72">
+  <a href="https://github.com/AeroNexusSR-72" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  
-  <a href="https://instagram.com/Juan_Andrew1">
+  <a href="https://instagram.com/Juan_Andrew1" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
-  
-  <a href="https://codeforces.com/profile/AndresC">
+  <a href="https://codeforces.com/profile/AndresC" target="_blank">
     <img src="https://skillicons.dev/icons?i=codeforces" width="40"/>
   </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,docker,figma,html,java,js,mongodb,php,ts,photoshop,illustrator" />
 </p>
